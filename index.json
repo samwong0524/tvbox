@@ -1,0 +1,27 @@
+{
+  "lives": [
+    {
+      "group": "央视",
+      "channels": [
+        {
+          "name": "CCTV-1",
+          "urls": [
+            "http://live.example.com/cctv1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5",
+          "urls": [
+            "http://live.example.com/cctv5.m3u8"
+          ]
+        },
+        {
+          "name": "湖南卫视",
+          "urls": [
+            "http://live.example.com/hnws.m3u8"
+          ]
+        }
+      ]
+    }
+  ]
+}
