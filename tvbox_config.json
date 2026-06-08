@@ -1,0 +1,165 @@
+{
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "🍎免费丨接口",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "filterable": 1
+    },
+    {
+      "key": "配置中心",
+      "name": "📥配置丨中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "filterable": 1
+    },
+    {
+      "key": "玩偶",
+      "name": "🤪玩偶｜4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "木偶",
+      "name": "🤪木偶｜4K",
+      "type": 3,
+      "api": "csp_mogg",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "清影",
+      "name": "🌸清影｜4K",
+      "type": 3,
+      "api": "csp_PanWebShareCloudQY",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "雷鲸",
+      "name": "🐳雷鲸｜4K",
+      "type": 3,
+      "api": "csp_PanWebShareCloudLJ",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "海绵",
+      "name": "🧽海绵｜4K",
+      "type": 3,
+      "api": "csp_PanWebShareCloudHM",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "夸父",
+      "name": "🪵夸父｜4K",
+      "type": 3,
+      "api": "csp_PanWebShareCloudKF",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "夸克",
+      "name": "🚀夸克｜4K",
+      "type": 3,
+      "api": "csp_PanWebShareCloudKK",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "即刻",
+      "name": "🚦即刻｜4K",
+      "type": 3,
+      "api": "csp_Jike",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "4K",
+      "name": "🈯指南｜4K",
+      "type": 3,
+      "api": "./js/4K指南.py",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "米搜",
+      "name": "🔍米搜｜搜索",
+      "type": 3,
+      "api": "csp_MiSou",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "天翼",
+      "name": "🔍天翼｜搜索",
+      "type": 3,
+      "api": "csp_TianYiSo",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "趣盘",
+      "name": "🔍趣盘｜搜索",
+      "type": 3,
+      "api": "csp_QuPanSo",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "夸克云盘",
+      "name": "😍我的 | 夸克",
+      "type": 3,
+      "api": "csp_PanQuark",
+      "searchable": 0,
+      "filterable": 0
+    },
+    {
+      "key": "UC",
+      "name": "😍我的 | UC",
+      "type": 3,
+      "api": "csp_PanUc",
+      "searchable": 0,
+      "filterable": 0
+    },
+    {
+      "key": "百度云盘",
+      "name": "😍我的 | 百度",
+      "type": 3,
+      "api": "csp_PanBaiDu",
+      "searchable": 0,
+      "filterable": 0
+    },
+    {
+      "key": "阿里云盘",
+      "name": "😍我的｜阿里",
+      "type": 3,
+      "api": "csp_PanAli",
+      "searchable": 0,
+      "filterable": 0
+    },
+    {
+      "key": "本地",
+      "name": "🗂️我的｜本地",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "push_agent",
+      "name": "🔗云盘 | 推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "filterable": 0
+    }
+  ],
+  "lives": []
+}
