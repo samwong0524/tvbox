@@ -1,26 +1,37 @@
 {
   "lives": [
     {
-      "group": "央视",
+      "group": "央视频道",
       "channels": [
-        {
-          "name": "CCTV-1",
-          "urls": [
-            "http://live.example.com/cctv1.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-5",
-          "urls": [
-            "http://live.example.com/cctv5.m3u8"
-          ]
-        },
-        {
-          "name": "湖南卫视",
-          "urls": [
-            "http://live.example.com/hnws.m3u8"
-          ]
-        }
+        {"name": "CCTV-1综合", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?"]},
+        {"name": "CCTV-2财经", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?"]},
+        {"name": "CCTV-3综艺", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?"]},
+        {"name": "CCTV-4中文国际", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?"]},
+        {"name": "CCTV-5体育", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?"]},
+        {"name": "CCTV-5+体育赛事", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?"]},
+        {"name": "CCTV-6电影", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?"]},
+        {"name": "CCTV-7国防军事", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?"]},
+        {"name": "CCTV-8电视剧", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?"]},
+        {"name": "CCTV-9纪录", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?"]},
+        {"name": "CCTV-10科教", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?"]},
+        {"name": "CCTV-11戏曲", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?"]},
+        {"name": "CCTV-12社会与法", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?"]},
+        {"name": "CCTV-13新闻", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?"]},
+        {"name": "CCTV-14少儿", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?"]},
+        {"name": "CCTV-15音乐", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?"]},
+        {"name": "CCTV-16奥林匹克", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?"]},
+        {"name": "CCTV-17农业农村", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?"]}
+      ]
+    },
+    {
+      "group": "卫视频道",
+      "channels": [
+        {"name": "北京卫视", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2"]},
+        {"name": "东方卫视", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2"]},
+        {"name": "浙江卫视", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2"]},
+        {"name": "江苏卫视", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2"]},
+        {"name": "广东卫视", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2"]},
+        {"name": "湖南卫视", "urls": ["http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?GuardEncType=2"]}
       ]
     }
   ]
